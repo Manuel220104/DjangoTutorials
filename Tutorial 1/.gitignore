@@ -1,0 +1,2 @@
+# Ignorar el entorno virtual creado con venv
+venv/
